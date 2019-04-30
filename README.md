@@ -1,4 +1,4 @@
-# discord-anti-ddos-bot
+# Discord Anti-DDoS Bot !
 
 This is a bot who changes server region when the endpoint ping gets upper than 100 (you can change this limit with changing the "maxping" variable at line 82)
 
